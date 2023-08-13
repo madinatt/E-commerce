@@ -1,4 +1,3 @@
-# E-commerce
 # E-commerce Exploratory Data Analysis
 
 This repository contains an exploratory data analysis (EDA) project focused on an E-commerce dataset derived from Kaggle. The dataset comprises transactional records spanning from 01/12/2010 to 09/12/2011, involving a UK-based and registered non-store online retail business. The company specializes in unique all-occasion gifts, with a significant customer base including wholesalers. The initial dataset consists of 541,910 entries across 8 columns, providing information about product descriptions, prices, and global purchases.
