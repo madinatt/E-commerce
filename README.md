@@ -1,2 +1,3 @@
 # E-commerce
-The ecommerce exploratory dataset was derived from kaggle. 
+This E-commerce exploratory dataset was derived from kaggle. It is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. It originally contains 541,910 entries and 8 columns of information about descriptions and prices of products that has been purchased accross the world. The goal of the project is to clean the data, generate insights to the profit margin, highest selling products and create data visualisations to analyse and represent the E-commerce dataset for future predictions.
+
