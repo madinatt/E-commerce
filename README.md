@@ -17,7 +17,7 @@ The primary objectives of this project are as follows:
 The research aims to address the following key questions:
 1. Analyze revenues from each country and quantities of products sold.
 2. Highlight the TOP 10 highest buying customers and their originating countries.
-3. Explore products sold, associated profits, and sales quantities.
+3. Explore products sold and associated sales quantities.
 4. Identify the top products in stock across different locations.
 5. Investigate the significance of lowest and highest unit prices.
 6. Discussion and Visualization of Insights.
