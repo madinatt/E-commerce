@@ -32,6 +32,6 @@ The research aims to address the following key questions:
 
 ## Conclusion
 
-Feel free to explore the code and analysis in the provided notebooks. Your feedback and contributions are greatly appreciated!
+Feel free to explore the code and analysis in the provided notebooks. Your feedback and contributions are greatly appreciated!.
 
 *Note: Insert any relevant badges, installation instructions, or project-specific details as needed.*
